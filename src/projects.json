@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Weather App",
+    "description": "Get weather updates from your phone",
+    "technologies":  "Made with:  HTML, CSS, JavaScript, API, and GitHub Pages.",
+    "tryLink": "https://cloudnine-weather.herokuapp.com/",
+    "repository":  "https://github.com/isipcasinillo/cloudnine"
+  },
+  {
+    "id": 4,
+    "name": "Color Font App",
+    "description": "Check out weather wherever you are.",
+    "technologies": "Made with:  HTML, CSS, JavaScript, jQuery, Bootstrap, and GitHub Pages.",
+    "tryLink": "https://color-font-app.herokuapp.com/",
+    "repository": "https://github.com/isipcasinillo/color-font-app"
+  }
+]
